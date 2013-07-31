@@ -1,0 +1,1347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"border-bott",
+				"border-bottom-width"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"Traffic",
+				"Traffic_model"
+			],
+			[
+				"insert",
+				"insert_array"
+			],
+			[
+				"num",
+				"numRows"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"which",
+				"whichNeighborsExist"
+			],
+			[
+				"adj",
+				"adjMines"
+			],
+			[
+				"is",
+				"isRevealed"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"ce",
+				"cellsToCheck"
+			],
+			[
+				"coord",
+				"coordToString"
+			],
+			[
+				"placed",
+				"placedMines"
+			],
+			[
+				"string",
+				"stringsToCheck"
+			],
+			[
+				"plac",
+				"placedMines"
+			],
+			[
+				"coun",
+				"countAdjMines"
+			],
+			[
+				"list-sty",
+				"list-style-position"
+			],
+			[
+				"Loans",
+				"Loans_model"
+			],
+			[
+				"extension",
+				"extension_length"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"property",
+				"property_type"
+			],
+			[
+				"application",
+				"application_life"
+			],
+			[
+				"days",
+				"days_to_extend"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2049,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4627,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1564,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"TODO",
+				"Show TODOs: Open files only"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"FTP",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"syntax",
+				"Set Syntax: Tasks"
+			],
+			[
+				"exit",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax tas",
+				"Set Syntax: Tasks"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"toggle side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"toggle si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"New ",
+				"Tasks: New"
+			],
+			[
+				"n",
+				"Tasks: New"
+			],
+			[
+				"projects",
+				"Project: Save As"
+			],
+			[
+				"jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"tak",
+				"Tasks: New"
+			],
+			[
+				"task new",
+				"Tasks: New document"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet for",
+				"Snippet: for …"
+			],
+			[
+				"syntax PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"package control:install ",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"syntax: HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntx: javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package In",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/todomvc/tastejs-todomvc-d41638c/architecture-examples/angularjs/js/controllers/todoCtrl.js",
+		"/C/todomvc/tastejs-todomvc-d41638c/architecture-examples/angularjs/js/app.js",
+		"/C/todomvc/tastejs-todomvc-d41638c/architecture-examples/angularjs/js/services/todoStorage.js",
+		"/C/wamp/www/todo/ui-bootstrap-tpls-0.4.0.js",
+		"/C/angular-local-storage/localStorageModule.js",
+		"/C/todomvc/tastejs-todomvc-d41638c/architecture-examples/angularjs/index.html",
+		"/C/todomvc/tastejs-todomvc-d41638c/architecture-examples/angularjs/js/directives/todoFocus.js",
+		"/C/todomvc/tastejs-todomvc-d41638c/architecture-examples/angularjs/js/directives/todoBlur.js",
+		"/C/todomvc/tastejs-todomvc-d41638c/architecture-examples/angularjs/js/libs/angular/angular.min.js",
+		"/C/wamp/www/todo/todo.sublime-project",
+		"/C/wamp/www/todo/app.js",
+		"/C/todo/todo.sublime-project",
+		"/C/mySite/index.html",
+		"/C/mySite/localStorage.js",
+		"/C/angular-local-storage/demo-app.js",
+		"/C/todo/app.js",
+		"/C/todo/style.css",
+		"/C/todo/index.html",
+		"/C/todo/localStorageModule.js",
+		"/C/wamp/www/moolahlist/application/controllers/lenders.php",
+		"/C/wamp/www/moolahlist/application/models/traffic_model.php",
+		"/C/wamp/www/moolahlist/application/models/lenders_model.php",
+		"/C/wamp/www/moolahlist/application/controllers/profile.php",
+		"/C/wamp/www/moolahlist/application/views/users/lender_profile_view.php",
+		"/C/wamp/www/moolahlist/application/views/hard_money/lender_view.php",
+		"/C/wamp/www/moolahlist/application/views/details/index.php",
+		"/C/wamp/www/moolahlist/application/controllers/details.php",
+		"/C/wamp/www/moolahlist/application/views/lenders/details_view.php",
+		"/C/Users/HiccupinGminor/Documents/notes_on_anglejs",
+		"/C/wamp/www/minesweeper/minesweeper.css",
+		"/C/wamp/www/moolahlist/include/price_array.php",
+		"/C/wamp/www/minesweeper/minesweeper.html",
+		"/C/wamp/www/minesweeper/minesweeper.js",
+		"/C/wamp/www/rixth_minesweeper/minesweeper/public/minesweeper.js",
+		"/C/wamp/www/rixth_minesweeper/minesweeper/public/app.js",
+		"/C/wamp/www/rixth_minesweeper/minesweeper/public/app.html",
+		"/C/wamp/www/moolahlist/application/views/classifieds/index_view.php",
+		"/C/wamp/www/basic_site/admiral/admiral.js",
+		"/C/wamp/www/basic_site/admiral/admiral.html",
+		"/C/wamp/www/moolahlist/application/controllers/loans.php",
+		"/C/wamp/www/Tasks/tasks.TODO",
+		"/C/wamp/www/moolahlist/application/controllers/contact.php",
+		"/C/wamp/www/moolahlist/application/views/templates/email/basic_template.php",
+		"/C/wamp/www/moolahlist/application/views/email/contact_msg.php",
+		"/C/wamp/www/moolahlist/application/views/email/loans/leads_email.php",
+		"/C/wamp/www/moolahlist/application/views/loans/view_view.php",
+		"/C/wamp/www/moolahlist/application/libraries/Template.php",
+		"/C/wamp/www/moolahlist/application/views/templates/main_template.php",
+		"/C/wamp/www/moolahlist/application/views/email/basic_view.php",
+		"/C/wamp/www/moolahlist/application/config/moolahlist.php",
+		"/C/wamp/www/moolahlist/application/config/moolahlist",
+		"/C/wamp/www/basic_site/battleship.css",
+		"/C/wamp/www/moolahlist/css/all.css",
+		"/C/Users/HiccupinGminor/Desktop/Tasks/tasks.TODO",
+		"/C/wamp/www/moolahlist/application/views/loans/extend_view.php",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/wamp/www/moolahlist/application/models/loans_model.php",
+		"/C/wamp/www/moolahlist/application/views/navbar.php",
+		"/C/wamp/www/moolahlist/application/views/loans/extend_view",
+		"/C/Users/HiccupinGminor/Documents/battleship.py",
+		"/C/wamp/www/basic_site/battleship.php",
+		"/C/wamp/www/basic_site/testing.html",
+		"/C/wamp/www/moolahlist/application/models/users_model.php",
+		"/C/wamp/www/moolahlist/application/controllers/users_public.php",
+		"/C/wamp/www/moolahlist/application/views/users/profile_view.php",
+		"/C/wamp/www/moolahlist/application/views/classifieds/search_view.php",
+		"/C/wamp/www/moolahlist/application/config/config.php",
+		"/C/wamp/www/moolahlist/application/config/foreign_chars.php",
+		"/C/wamp/www/moolahlist/application/config/autoload.php",
+		"/C/wamp/www/moolahlist/application/config/mahana.php",
+		"/C/wamp/www/moolahlist/include/deleteAcct.php",
+		"/C/Users/HiccupinGminor/Desktop/Tasks/test.py",
+		"/C/wamp/www/moolahlist/application/views/email/test_email.html",
+		"/C/wamp/www/moolahlist/application/config/email.php",
+		"/C/wamp/www/moolahlist/application/views/email/lender_application_admin.php",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/moolahlist/application/libraries/MY_Email.php",
+		"/C/wamp/www/moolahlist/application/libraries/Image_moo.php",
+		"/C/wamp/www/moolahlist/application/views/test_view.php",
+		"/C/wamp/www/moolahlist/css/email.css",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/User/PlainTasks.sublime-settings",
+		"/C/wamp/www/moolahlist/scripts/all.js",
+		"/C/wamp/www/moolahlist/application/controllers/ftpsync.settings",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/wamp/www/moolahlist/application/views/lenders/signup_view.php",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/wamp/www/moolahlist/application/views/loans/application_success_view.php",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/HiccupinGminor/Desktop/test.php",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/wamp/www/moolahlist/loanboard_img/123.JPEG",
+		"/C/node_proj/sublime_test.php",
+		"/C/Users/HiccupinGminor/Documents/hey.js",
+		"/C/node_proj/server.js",
+		"/C/Users/HiccupinGminor/Desktop/Mahana Messaging Library/Mahana-Messaging-library-for-CodeIgniter-master/README",
+		"/C/Users/HiccupinGminor/Desktop/test2.php",
+		"/C/Users/HiccupinGminor/AppData/Roaming/Sublime Text 2/Packages/Phpcs/phpcs.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\moolahlist\\application\\models"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chagName",
+			"Archived",
+			"color",
+			"push",
+			"item",
+			"row",
+			"todo",
+			"scopeToDo",
+			"<span class=\"timestamp\">",
+			"\">\n",
+			"timestamp",
+			"date",
+			"Date",
+			"date",
+			"1",
+			"6",
+			"margin",
+			"b",
+			"view",
+			"click",
+			"clicks",
+			"listings_clicks",
+			"visit",
+			"toCheck",
+			"console.log",
+			"cellsToCheck",
+			"defined",
+			"mined",
+			"c",
+			"r",
+			"this.revealed",
+			"this.mined",
+			"col",
+			"placeMines",
+			"Game",
+			";\n",
+			"bombAt",
+			"getCell",
+			"]",
+			"[",
+			"\",\"",
+			"<ul ",
+			"ul",
+			"<ul data-row=\"1\">",
+			"padding",
+			"font-size",
+			"</li>",
+			"<li>",
+			"email",
+			"<?",
+			"null",
+			"msg",
+			"\n    ",
+			"            <li></li>\n",
+			"test_email",
+			"apply",
+			"status",
+			"error",
+			"err",
+			"error",
+			"success",
+			"vital",
+			"extend",
+			"lenght",
+			"days_to_extend",
+			"./img",
+			"\n        ",
+			"extend",
+			"manage",
+			"validation",
+			"extend",
+			"exten",
+			"extend",
+			"exten",
+			"$this->load->library('email');",
+			"This",
+			">\n",
+			"this",
+			"This",
+			"this",
+			"This",
+			"config",
+			"$config",
+			"$this->email",
+			"lender_match",
+			"lender match	",
+			"lender match",
+			"587",
+			"apply",
+			"/p",
+			"'charset' => 'utf-8',\n	'wordwrap' => TRUE,\n	'mailtype' => 'html',\n	'useragent' => 'MoolahList',\n	'smtp_host' => 'smtp.mandrillapp.com',\n	'smtp_user' => 'chris@moolahlist.com',\n	'smtp_pass' => '4HfteI_21CdIBXuDDDV60g',\n	",
+			"test",
+			"        ",
+			"border",
+			"            ",
+			"        ",
+			"link",
+			"$record",
+			"#message",
+			"a",
+			"a:href",
+			"$this->form_validation->set_rules",
+			"set_rules",
+			"$this->form_validation->set_rules",
+			"homework",
+			"the",
+			"do",
+			"$dunce['style'] = 'Red';",
+			"parse",
+			"$north",
+			"north",
+			"Dunce",
+			"benefits"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"row-fluid",
+			"isMined",
+			"this.isRevealed",
+			"this.isMine"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 2049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1593,
+								1593
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"trailing": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files/nodejs/node.exe",
+								"javascript": "C:/Program Files/nodejs/node.exe",
+								"php": "C:/wamp/bin/php/php5.4.3/php.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1850,
+								1850
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"trailing": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files/nodejs/node.exe",
+								"javascript": "C:/Program Files/nodejs/node.exe",
+								"php": "C:/wamp/bin/php/php5.4.3/php.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 1564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1096,
+								1096
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"trailing": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:/Program Files/nodejs/node.exe",
+								"javascript": "C:/Program Files/nodejs/node.exe",
+								"php": "C:/wamp/bin/php/php5.4.3/php.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1042.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"loc",
+				"localStorageModule.js"
+			],
+			[
+				"profile",
+				"moolahlist/application/controllers/profile.php"
+			],
+			[
+				"lender_pro",
+				"moolahlist/application/views/users/lender_profile_view.php"
+			],
+			[
+				"views/details/inde",
+				"moolahlist/application/views/details/index.php"
+			],
+			[
+				"details",
+				"moolahlist/application/controllers/details.php"
+			],
+			[
+				"hard_money/lende",
+				"moolahlist/application/views/hard_money/lender_view.php"
+			],
+			[
+				"lenders/view",
+				"moolahlist/application/views/lenders/details_view.php"
+			],
+			[
+				"lenders_",
+				"moolahlist/application/models/lenders_model.php"
+			],
+			[
+				"lenders_mo",
+				"moolahlist/application/models/lenders_model.php"
+			],
+			[
+				"lender",
+				"moolahlist/application/controllers/lenders.php"
+			],
+			[
+				"pric",
+				"moolahlist/include/price_array.php"
+			],
+			[
+				"email/loans/",
+				"moolahlist/application/views/email/loans/leads_email.php"
+			],
+			[
+				"contact_ms",
+				"moolahlist/application/views/email/contact_msg.php"
+			],
+			[
+				"basic",
+				"moolahlist/application/views/templates/email/basic_template.php"
+			],
+			[
+				"templates/ba",
+				"moolahlist/application/views/templates/email/basic_template.php"
+			],
+			[
+				"tem",
+				"moolahlist/application/libraries/Template.php"
+			],
+			[
+				"templates/emai",
+				"moolahlist/application/views/templates/email/basic_template.php"
+			],
+			[
+				"templates/",
+				"moolahlist/application/views/templates/main_template.php"
+			],
+			[
+				"views/emai",
+				"moolahlist/application/views/email/contact_msg.php"
+			],
+			[
+				"bas",
+				"moolahlist/application/views/email/basic_view.php"
+			],
+			[
+				"temp",
+				"moolahlist/application/libraries/Template.php"
+			],
+			[
+				"main_",
+				"moolahlist/application/views/templates/main_template.php"
+			],
+			[
+				"moolahlist",
+				"moolahlist/application/config/moolahlist.php"
+			],
+			[
+				"moolahl",
+				"moolahlist/application/config/moolahlist"
+			],
+			[
+				"contact",
+				"moolahlist/application/controllers/contact.php"
+			],
+			[
+				"battleship",
+				"/C/wamp/www/basic_site/battleship.css"
+			],
+			[
+				"views/email",
+				"moolahlist/application/views/email/basic_view.php"
+			],
+			[
+				"all.css",
+				"moolahlist/css/all.css"
+			],
+			[
+				"view_view",
+				"moolahlist/application/views/loans/view_view.php"
+			],
+			[
+				"loans",
+				"moolahlist/application/controllers/loans.php"
+			],
+			[
+				"all.",
+				"moolahlist/css/all.css"
+			],
+			[
+				"all",
+				"moolahlist/css/all.css"
+			],
+			[
+				"loans/view",
+				"moolahlist/application/views/loans/view_view.php"
+			],
+			[
+				"extend",
+				"moolahlist/application/views/loans/extend_view.php"
+			],
+			[
+				"nav",
+				"moolahlist/application/views/navbar.php"
+			],
+			[
+				"users",
+				"moolahlist/application/models/users_model.php"
+			],
+			[
+				"users_",
+				"moolahlist/application/controllers/users_public.php"
+			],
+			[
+				"exten",
+				"moolahlist/application/views/loans/extend_view"
+			],
+			[
+				"loans_",
+				"moolahlist/application/models/loans_model.php"
+			],
+			[
+				"profile_",
+				"moolahlist/application/views/users/profile_view.php"
+			],
+			[
+				"search_",
+				"moolahlist/application/views/classifieds/search_view.php"
+			],
+			[
+				"profe",
+				"moolahlist/application/controllers/profile.php"
+			],
+			[
+				"profile_vie",
+				"moolahlist/application/views/users/profile_view.php"
+			],
+			[
+				"confi",
+				"moolahlist/application/config/config.php"
+			],
+			[
+				"config/",
+				"moolahlist/application/config/foreign_chars.php"
+			],
+			[
+				"config/ma",
+				"moolahlist/application/config/mahana.php"
+			],
+			[
+				"controllers/loan",
+				"moolahlist/application/controllers/loans.php"
+			],
+			[
+				"include",
+				"moolahlist/include/deleteAcct.php"
+			],
+			[
+				"test.html",
+				"application/views/email/test_email.html"
+			],
+			[
+				"models/lender",
+				"application/models/lenders_model.php"
+			],
+			[
+				"leads_emai",
+				"application/views/email/loans/leads_email.php"
+			],
+			[
+				"loan",
+				"application/controllers/loans.php"
+			],
+			[
+				"config/email",
+				"application/config/email.php"
+			],
+			[
+				"email/lender",
+				"application/views/email/lender_application_admin.php"
+			],
+			[
+				"libraries/",
+				"application/libraries/Image_moo.php"
+			],
+			[
+				"configem",
+				"application/config/email.php"
+			],
+			[
+				"controllerlender",
+				"application/controllers/lenders.php"
+			],
+			[
+				"test",
+				"application/views/test_view.php"
+			],
+			[
+				"views/email/",
+				"application/views/email/basic_view.php"
+			],
+			[
+				"views/loans/view",
+				"application/views/loans/view_view.php"
+			],
+			[
+				"all.js",
+				"scripts/all.js"
+			],
+			[
+				"lenders",
+				"application/controllers/lenders.php"
+			],
+			[
+				"views/lenders/sign",
+				"application/views/lenders/signup_view.php"
+			],
+			[
+				"controllers/lenders",
+				"application/controllers/lenders.php"
+			],
+			[
+				"application",
+				"application/views/loans/application_success_view.php"
+			],
+			[
+				"lenders/vie",
+				"moolahlist/application/views/lenders/details_view.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/sublime_projects/Battleship.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
