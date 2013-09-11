@@ -3,7 +3,7 @@ body{
 	background-color: #b8d8d8;
 	background: #b8d8d8 url(assets/bg.gif);
 }
-body, input, select, textarea{
+body, input, select, textarea, button{
 	font-family: "Arvo", Helvetica, Arial, Sans-serif;
 }
 h1{
@@ -26,6 +26,7 @@ input[type="radio"], input[type="checkbox"]{
 	background-color: #fff;
 	padding:2em;
 	border:1px solid #99bfbf;
+	border-bottom-color: #819d9d;
 }
 .optional{
 	color: #AAA;
@@ -34,6 +35,7 @@ input[type="radio"], input[type="checkbox"]{
 	padding:.5em .5em;
 	background-color: #F2F2F2;
 	border-bottom: 1px solid #CCC;
+	border-top:1px solid #FFF;
 }
 a:hover{
 	cursor:pointer;	
@@ -118,6 +120,44 @@ a:hover{
 	display:inline-block;
 }
 .unstyled li{
-	margin:0em 0;
+	margin:0;
 	line-height:1em;
+}
+.sub{
+	border:1px solid #DDD;
+	border-top:1px solid #CCC;
+	border-bottom-color: #EEE;
+	background-color: #fAfAfA;
+	padding:0;
+	margin:.5em .5em .5em 5em;
+	font-size:11px;
+}
+.collapsed{
+	margin:0;
+	padding:0;
+	border:none;
+}
+.sub input, .sub button{
+	font-size:11px;
+	padding:0 .5em;
+	margin-bottom:0;
+}
+.sub-tree{
+	margin:0;
+}
+.sub-tree li{
+	list-style: none;
+	list-style-position: inside;
+	padding:.5em;
+	border-bottom:1px dotted #BBB;
+}
+.sub-tree li:last-child{
+	border-bottom:none;
+}
+.input-append{
+	margin-bottom:0;
+}
+form.unstyled{
+	margin:0;
+	padding:0;
 }

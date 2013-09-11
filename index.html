@@ -2,23 +2,24 @@
 <html lang="en" ng-app="todoApp">
 <head>
 	<meta charset="UTF-8">
-	<title>Todo</title>
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-	<link rel="stylesheet" href="style.css">
+	<title>To Do List</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
 	<link href='http://fonts.googleapis.com/css?family=Arvo|Sansita+One' rel='stylesheet' type='text/css'>
 </head>
-<body ng-controller="TodoController">
+<body ng-controller="TodoController" ng-hide>
 	<div class="container">
 		<div class="row">
 			<div class="span12">
-				<h1>To Do</h1>
+				<h1>To Do Demo</h1>
+				<p><a href="https://github.com/HiccupinGminor/Todo">View project on Github</a></p>
 				<form ng-submit="addTodo()" class="form-inline">
 
 					<input type="text" class="input-xxlarge" ng-model="todoText" id="task" placeholder="What will you do?">
-					<select id="priority" class="input-medium" ng-model="todoPriority" placeholder="Priority">
+					<select id="priority" class="input-medium" ng-model="todoPriority">
 						<option value=""></option>
 						<option value="A">A - Urgent</option>
-						<option value="B">B - Important</option>
+						<option value="B" selected="selected">B - Important</option>
 						<option value="C">C - Casual</option>
 					</select>
 					<input type="submit" value="Add" class="btn btn-primary">
@@ -27,7 +28,7 @@
 				<div class="todo-item" ng-repeat="todo in todos | orderBy: 'priority' | filter:{archived:false}">
 					<input type="checkbox" ng-model="todo.done" ng-change="markDone(todo)">
 					<span class="isolate-right priority" tooltip-placement="top" tooltip="Priority"><strong>{{todo.priority}}</strong></span> 
-					<span class="done-{{todo.done}}">{{todo.text}}</span> 
+					<span class="done-{{todo.done}} isolate-both">{{todo.text}}</span> 
 					<span class="timestamp" ng-hide="!todo.timedone">(Done @ {{todo.timedone| date:'short'}})</span>
 					<a ng-click="deleteTodo(todo)" class="isolate-left" tooltip-placement="top" tooltip="Delete Task"><i class="icon-remove"></i></a>
  				</div>
@@ -47,13 +48,9 @@
 		</div>
 	</div>
 	<!--Angular.js-->
-	<script>
-		var lsTodos = localStorage.getItem('todos-angularjs');
-		console.log(lsTodos);
-	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
-	<script src="ui-bootstrap-tpls-0.4.0.js"></script>
+	<script src="js/ui-bootstrap-tpls-0.4.0.js"></script>
 	<!--Application script-->
-	<script src="app.js"></script>
+	<script src="js/todo.js"></script>
 </body>
 </html>

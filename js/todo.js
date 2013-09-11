@@ -7,11 +7,13 @@ todoApp.controller('TodoController', function TodoController($scope){
 	var TASK_ID = 'todo_tasks';
 	var todos = $scope.todos = JSON.parse(localStorage.getItem(TASK_ID) || '[]');
 	
-	//Watch for a change in the value of 'todos'. Put changes to localStorage
+	//Watch for a change in the value of 'todos'. Push changes to localStorage
 	$scope.$watch('todos', function(){
 		localStorage.setItem(TASK_ID, JSON.stringify(todos));
 	}, true);
 	
+	$scope.isCollapsed = true;
+
 	//Mark a task as done and reverse
 	$scope.markDone = function(item){
 		var now = new Date();
@@ -29,9 +31,12 @@ todoApp.controller('TodoController', function TodoController($scope){
 	//Add a task
 	$scope.addTodo = function(){
 		var now = new Date();
-		$scope.todos.push({text: $scope.todoText, priority: $scope.todoPriority, timestamp: now, done: false, archived: false});
+		//Generate a unique id
+		var unique = new Date().getTime();
+		$scope.todos.push({id: unique, text: $scope.todoText, priority: $scope.todoPriority, timestamp: now, done: false, archived: false});
 		$scope.todoText = '';
 		$scope.todoPriority = '';
+		console.log($scope.todos);
 	};
 
 	//Count how many tasks remain incomplete
