@@ -1,7 +1,7 @@
 body{
 	padding-top:.5em;
 	background-color: #b8d8d8;
-	background: #b8d8d8 url(assets/bg.gif);
+	background: #b8d8d8 url(../img/bg.gif);
 }
 body, input, select, textarea, button{
 	font-family: "Arvo", Helvetica, Arial, Sans-serif;
